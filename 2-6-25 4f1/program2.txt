@@ -1,0 +1,15 @@
+class Main {
+    public static void main(String[] args) {
+        int num=3;
+        int count=0;
+        for(int i=1;i<=num;i++);
+        count++;
+    }
+}
+if(cont==2){
+    System.out.println(num+"is prime number");
+}
+else{
+    System.out.println(num+"is not prime number");
+}
+}
